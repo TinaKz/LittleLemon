@@ -1,8 +1,8 @@
 # Littlelemon
 /restaurant/ <br/>
 /restaurant/menu/ <br/>
-/restaurant/booking/
-/restaurant/booking/tables/
-/auth/users/
-/auth/token/login
-/auth/token/logout
+/restaurant/booking/ <br/>
+/restaurant/booking/tables/ <br/>
+/auth/users/ <br/>
+/auth/token/login <br/>
+/auth/token/logout <br/>
